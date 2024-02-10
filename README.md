@@ -3,4 +3,5 @@ My favourite pokemon would have to be Suicune. The reason is mostly due to a mem
 The purpose of this code if for a lab assignment for the ECSE3038 course. The aim is to build post request handlers with FastAPI.
 
 add_person()
-This function will update the data dictionary every time a post request is handled. It accepts requests at the /person route and returns an error message when at least one key has an empty value.
+
+  This function will update the data dictionary every time a post request is handled. It accepts requests at the /person route and returns an error message when at least one key has an empty value.
